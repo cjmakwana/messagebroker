@@ -1,0 +1,14 @@
+D:\CommunityProjects\MessageBroker\MessageBrokerSolution\MessageBrokerTests\bin\Debug\MessageBrokerTests.dll
+D:\CommunityProjects\MessageBroker\MessageBrokerSolution\MessageBrokerTests\bin\Debug\MessageBrokerTests.pdb
+D:\CommunityProjects\MessageBroker\MessageBrokerSolution\MessageBrokerTests\bin\Debug\FluentAssertions.Core.dll
+D:\CommunityProjects\MessageBroker\MessageBrokerSolution\MessageBrokerTests\bin\Debug\FluentAssertions.dll
+D:\CommunityProjects\MessageBroker\MessageBrokerSolution\MessageBrokerTests\bin\Debug\MessageBroker.dll
+D:\CommunityProjects\MessageBroker\MessageBrokerSolution\MessageBrokerTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\CommunityProjects\MessageBroker\MessageBrokerSolution\MessageBrokerTests\bin\Debug\MessageBroker.pdb
+D:\CommunityProjects\MessageBroker\MessageBrokerSolution\MessageBrokerTests\bin\Debug\FluentAssertions.pdb
+D:\CommunityProjects\MessageBroker\MessageBrokerSolution\MessageBrokerTests\bin\Debug\FluentAssertions.xml
+D:\CommunityProjects\MessageBroker\MessageBrokerSolution\MessageBrokerTests\bin\Debug\FluentAssertions.Core.pdb
+D:\CommunityProjects\MessageBroker\MessageBrokerSolution\MessageBrokerTests\bin\Debug\FluentAssertions.Core.xml
+D:\CommunityProjects\MessageBroker\MessageBrokerSolution\MessageBrokerTests\obj\Debug\MessageBrokerTests.csprojResolveAssemblyReference.cache
+D:\CommunityProjects\MessageBroker\MessageBrokerSolution\MessageBrokerTests\obj\Debug\MessageBrokerTests.dll
+D:\CommunityProjects\MessageBroker\MessageBrokerSolution\MessageBrokerTests\obj\Debug\MessageBrokerTests.pdb

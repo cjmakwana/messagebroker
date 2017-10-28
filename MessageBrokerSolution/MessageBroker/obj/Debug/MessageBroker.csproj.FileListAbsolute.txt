@@ -1,0 +1,5 @@
+D:\CommunityProjects\MessageBroker\MessageBrokerSolution\MessageBroker\bin\Debug\MessageBroker.dll
+D:\CommunityProjects\MessageBroker\MessageBrokerSolution\MessageBroker\bin\Debug\MessageBroker.pdb
+D:\CommunityProjects\MessageBroker\MessageBrokerSolution\MessageBroker\obj\Debug\MessageBroker.csprojResolveAssemblyReference.cache
+D:\CommunityProjects\MessageBroker\MessageBrokerSolution\MessageBroker\obj\Debug\MessageBroker.dll
+D:\CommunityProjects\MessageBroker\MessageBrokerSolution\MessageBroker\obj\Debug\MessageBroker.pdb
