@@ -18,6 +18,8 @@
             }
         }
 
+        public bool IsPersistent => true;
+
         private MessageBrokerImpl()
         {
             _subscribers = new Dictionary<Type, List<Delegate>>();
