@@ -18,7 +18,7 @@
             }
         }
 
-        public bool IsPersistent => false;
+        public bool IsPersistent => true;
 
         private MessageBrokerImpl()
         {
