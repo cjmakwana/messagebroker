@@ -72,5 +72,11 @@
             // I will write code to persist all the subscribers.
             return true;
         }
+
+        public bool Persist(string queueName)
+        {
+            Console.WriteLine($"Saving the subscribers inside the queue {queueName}.");
+            return true;
+        }
     }
 }

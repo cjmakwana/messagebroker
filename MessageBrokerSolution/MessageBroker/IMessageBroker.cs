@@ -8,5 +8,6 @@
         void Unsubscribe<T>(Action<MessagePayload<T>> subscription);
         bool IsPersistent { get; }
         bool Persist();
+        bool Persist(string queueName);
     }
 }
